@@ -599,3 +599,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Mar2025 22:59:02.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoySaave lost connection: Timed out
 [11Mar2025 22:59:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySaave left the game
 [11Mar2025 22:59:02.593] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SoySaave
+[11Mar2025 22:59:45.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoySaave[/100.92.50.62:54801] logged in with entity id 2401 at (-17.100232749990003, 113.0, -0.274665381049463)
+[11Mar2025 22:59:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySaave joined the game
+[11Mar2025 22:59:46.987] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 22:59:47.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 22:59:47.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 22:59:48.289] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 22:59:48.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 22:59:49.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 22:59:49.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 22:59:49.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 22:59:53.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 22:59:53.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 22:59:53.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 22:59:53.489] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 22:59:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SoySaave (18)
+[11Mar2025 22:59:55.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SoySaave
+[11Mar2025 22:59:56.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:00.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:01.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:01.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:04.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6704eb53-cc09-31e0-8510-737fff44e93d
+[11Mar2025 23:00:05.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:05.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6704eb53-cc09-31e0-8510-737fff44e93d
+[11Mar2025 23:00:05.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SoySaave (6704eb53-cc09-31e0-8510-737fff44e93d) successfully connected to voice chat
+[11Mar2025 23:00:05.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:08.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:09.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:10.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:16.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:17.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:24.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 23:00:24.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 23:00:30.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:38.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:40.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[11Mar2025 23:00:40.888] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:41.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:51.789] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 23:00:55.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[11Mar2025 23:00:55.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[11Mar2025 23:00:55.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SoySaave lost connection: Disconnected
+[11Mar2025 23:00:55.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoySaave left the game
+[11Mar2025 23:00:55.946] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SoySaave
